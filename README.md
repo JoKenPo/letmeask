@@ -7,7 +7,6 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="20" src="https://hackagenda.com.br/wp-content/uploads/2021/03/nlw.png"></code>
 
-
 <p align="center">
  <img alt="letmeask" title="Letmeask" src="https://raw.githubusercontent.com/AndersonAlvesCoelho/letmeask/c9a7a1b675b2c67a27fe5612e972db483f879dee/src/assets/images/logo.svg" />
 </p>
@@ -29,6 +28,7 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
 ---
 
 ## Instruções para visualizar o projeto
+
 ### Requerimentos
 
 - [Node.js](https://nodejs.org/en/download/)
@@ -45,13 +45,16 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
 ## 📚 Atividades realizadas
 
 1º dia
+
 - [x] Configuração de ambiente de desenvolvimento
 - [x] Configurações iniciais do Firebase
 
 2º dia
+
 - [x] Autenticação de usuarios
 - [x] Criação de sala
 - [x] Roteamento e navegação
+
 ---
 
 ## 📣 O que é Next Level Week?
@@ -69,5 +72,8 @@ A Rocketseat tem a consciência que a prática é a melhor aula, então sempre n
 <div align="center">
 <img  src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F4b24bb94-c9ea-4984-a8cb-300ce4553abb%2Fnlw4-banner-github.png?table=block&id=d50c626b-7d28-4bfc-b9f0-ea2b42347e3e&spaceId=08f749ff-d06d-49a8-a488-9846e081b224&width=5120&userId=aaa75990-d584-4b7e-a045-99eb29503a22&cache=v2">
 </div>
-
 ---
+
+<p>
+* Deixei comentários no código para fins de estudo
+</p>
