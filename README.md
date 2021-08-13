@@ -42,7 +42,7 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
     npm start ou yarn start
 ```
 
-## 📚 Atividades realizadas
+<!-- ## 📚 Atividades realizadas
 
 1º dia
 
@@ -53,7 +53,7 @@ Você pode visualiza o layout do projeto pelo [figma](https://www.figma.com/file
 
 - [x] Autenticação de usuarios
 - [x] Criação de sala
-- [x] Roteamento e navegação
+- [x] Roteamento e navegação -->
 
 ---
 
